@@ -21,7 +21,12 @@ public class SimpleOperation {
 	// Here should be added the method division
   public int dev(int a,int b)
   {
+	  ///  added some comments 
+	  
+	  
 	  return a/b;
+	  
+	  
 	  
   }
 	
