@@ -20,5 +20,6 @@ public class SimpleOperation {
 	
 	// Here should be added the method division
 
-	
+
+	// Should we add another method here as well ?
 }
